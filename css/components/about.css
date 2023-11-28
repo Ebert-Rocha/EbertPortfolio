@@ -53,4 +53,8 @@
         text-align: justify;
 
     }
+
+    .about .about__rigth .justificado .mark{
+        font-weight: bold;
+    }
 }
